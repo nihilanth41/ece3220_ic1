@@ -4,7 +4,7 @@
 
 int get_num(void);
 int get_opt(char *);	
-char buf[256];
+char buf[16];
 
 #define NUM_MULTIPLES 10
 #define NUM_POWERS 6
